@@ -7,6 +7,7 @@ _______________________
 Replica of www.subnet-calculator.com
 
 This command line application uses an IPaddress and Subnet mask given by user to return the following parameters
+
 1.  Network address
 2.  Broadcast address
 3.  No of valid Hosts per subnet
